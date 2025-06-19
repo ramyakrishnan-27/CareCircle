@@ -60,6 +60,7 @@ carecircle/
 5. Run the SQL script to create the appointments table:
 
 CREATE TABLE appointments (...);
+
 Visit http://localhost/dietplan-project/index.html in your browser.
 
 🔒 Security Notes
